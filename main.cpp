@@ -13,7 +13,7 @@ int main()
     }
     for (int i = 0; i<N_ELEMENTS; i++) //for
     {
-        std::cout << "Ertek:" << b[i] <<endl;//values and ;
+        std::cout << "Ertek:" << b[i] <<std::endl;//values and ;
     }    
     std::cout << "Atlag szamitasa: " << std::endl;
     double atlag = 0; //double and initial value
